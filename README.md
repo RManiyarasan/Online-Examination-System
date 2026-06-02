@@ -1,7 +1,7 @@
 # Online-Examination-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040185
+# Name: Maniyarasan R
+# Date: 21.05.2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1257" height="917" alt="image" src="https://github.com/user-attachments/assets/f2525deb-fccf-4105-a9dc-04c3e682439b" />
 
 
 
@@ -57,6 +58,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1257" height="912" alt="image" src="https://github.com/user-attachments/assets/4791b9b9-ed98-478a-9c1f-2b8375638273" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1064" height="740" alt="image" src="https://github.com/user-attachments/assets/11a0801b-814e-4d9d-883d-7071bdbcb4c5" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1239" height="896" alt="image" src="https://github.com/user-attachments/assets/710190d0-7a32-434c-835c-1a225338c1bd" />
 
 
 
@@ -96,6 +100,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1255" height="913" alt="image" src="https://github.com/user-attachments/assets/8059b9b7-27e2-4f76-8100-bd15fa65442b" />
 
 
 
@@ -119,9 +124,9 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1247" height="908" alt="image" src="https://github.com/user-attachments/assets/e2d03109-2fdb-476c-a7dd-e8897e91cc7a" />
 
 
 # RESULT
 
 Thus the project to develop Online Examination system was developed using Star UML Software is done successfully.
-
